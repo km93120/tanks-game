@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/a" lang="d"/>
+    <qresource prefix="/">
+        <file>backgroundView.jpg</file>
+        <file>mur.jpg</file>
+        <file>playerTank.jpg</file>
+        <file>standardEnemy.jpg</file>
+    </qresource>
+</RCC>
